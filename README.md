@@ -6,7 +6,8 @@ Please follow the instructions on Notebooks to accomplish the results
 *Create Cluster
 
 
-*Launch the Kubeflow
+*Launch Kubeflow dashboard
+
 
 
 *Run the Model Code
